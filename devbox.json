@@ -4,7 +4,8 @@
     "kind@latest",
     "kubectl",
     "nodejs@latest",
-    "python@latest"
+    "python@latest",
+    "yarn@latest"
   ],
   "shell": {
     "init_hook": [
